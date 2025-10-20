@@ -39,7 +39,7 @@ This SQL analysis was further visualized and transformed into an interactive **T
 🔗 [COVID-19 Dashboard - Tableau Public](https://public.tableau.com/app/profile/omer.doron/viz/COVID-19Dashboard_17609599687590/Dashboard1)
 
 ### 🖼️ Preview
-![Dashboard Preview](https://public.tableau.com/static/images/CO/COVID-19Dashboard_17609599687590/Dashboard1/1.png)
+![Dashboard Preview](docs/COVID-19 Dashboard.png)
 
 *(If the preview above doesn’t load, you can view it directly on Tableau Public using the link above.)*
 
