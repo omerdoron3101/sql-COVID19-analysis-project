@@ -41,8 +41,6 @@ This SQL analysis was further visualized and transformed into an interactive **T
 ### 🖼️ Preview
 ![Dashboard Preview](docs/COVID-19%20Dashboard.png)
 
-*(If the preview above doesn’t load, you can view it directly on Tableau Public using the link above.)*
-
 ---
 
 ## ⚠️ Disclaimer
