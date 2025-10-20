@@ -36,7 +36,8 @@ This project provides a comprehensive SQL-based analysis of global COVID-19 case
 This SQL analysis was further visualized and transformed into an interactive **Tableau Dashboard** to provide a clear, visual understanding of the data trends and insights.
 
 👉 **View the live dashboard here:**  
-🔗 [COVID-19 Dashboard - Tableau Public]([https://public.tableau.com/app/profile/omer.doron/viz/COVID-19Dashboard_17609599687590/Dashboard1](https://public.tableau.com/views/COVID-19Dashboard_17609599687590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [COVID-19 Dashboard — Tableau Public](https://public.tableau.com/views/COVID-19Dashboard_17609599687590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ### 🖼️ Preview
 ![Dashboard Preview](docs/COVID-19%20Dashboard.png)
