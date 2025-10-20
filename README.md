@@ -31,6 +31,20 @@ This project provides a comprehensive SQL-based analysis of global COVID-19 case
 
 ---
 
+## 📈 Tableau Dashboard
+
+This SQL analysis was further visualized and transformed into an interactive **Tableau Dashboard** to provide a clear, visual understanding of the data trends and insights.
+
+👉 **View the live dashboard here:**  
+🔗 [COVID-19 Dashboard — Tableau Public](https://public.tableau.com/app/profile/omer.doron/viz/COVID-19Dashboard_17609599687590/Dashboard1)
+
+### 🖼️ Preview
+![Dashboard Preview](https://public.tableau.com/static/images/CO/COVID-19Dashboard_17609599687590/Dashboard1/1.png)
+
+*(If the preview above doesn’t load, you can view it directly on Tableau Public using the link above.)*
+
+---
+
 ## ⚠️ Disclaimer
 The datasets are publicly available and may contain errors or missing values. The results generated are for analytical and educational purposes and should not be interpreted as official COVID-19 statistics.
 
@@ -42,10 +56,10 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ---
 
 ## 🌟 About Me
-👋 Hi! I'm Omer Doron  
-I’m a student of Information Systems specializing in Digital Innovation.  
+👋 Hi! I'm **Omer Doron**  
+I’m a student of Information Systems specializing in **Digital Innovation**.  
 I’m passionate about transforming raw information into meaningful insights.  
 
-I created this project as part of my learning journey in data warehousing and analytics, and as a showcase of my technical and analytical skills.
+I created this project as part of my learning journey in **data warehousing and analytics**, and as a showcase of my **technical and analytical skills**.
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/omer-doron-a070732b1/)
